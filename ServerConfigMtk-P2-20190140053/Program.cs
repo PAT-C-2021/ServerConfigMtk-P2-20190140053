@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.ServiceModel;
-using ServiceMat_P1_20190140053;
+using ServiceMtk_P1_20190140053;
 
 
 namespace ServerConfigMtk_P2_20190140053
